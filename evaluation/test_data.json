@@ -1,0 +1,93 @@
+[
+    {
+      "query": "Define tangent to a circle",
+      "relevant_texts": [
+        "A tangent to a circle is a line that touches it at exactly one point.",
+        "The tangent touches the circle at a single point called the point of contact."
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "query": "How many tangents can be drawn from a point outside a circle?",
+      "relevant_texts": [
+        "Two tangents can be drawn to a circle from an external point."
+      ],
+      "difficulty": "medium"
+    },
+    {
+        "query": "A tangent to a circle intersects in which point",
+        "relevant_texts": [
+          "A tangent to a circle intersects at exactly one point."
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "query": "How many tangents can a circle have?",
+        "relevant_texts": ["A circle can have infinitely many tangents."],
+        
+        "difficulty": "easy"
+      },
+      {
+        "query": "What is the point of contact in a circle?",
+        "relevant_texts": ["The point of contact is the common point of the tangent and the circle."],
+        
+        "difficulty": "easy"
+      },
+      {
+        "query": "How many tangents can be drawn from a point lying on the circle?",
+        "relevant_texts": [
+          "Only one tangent can be drawn at a point on the circle."
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "query": "What is the length of the chord of the larger circle which touches the smaller circle if the radii of two concentric circles are 5 cm and 3 cm?",
+        "relevant_texts": [
+          "The length of the chord is 8 cm, calculated using the Pythagoras theorem."
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "query": "What type of quadrilateral always circumscribes a circle?",
+        "relevant_texts": [
+          "A quadrilateral that always circumscribes a circle is called a tangential quadrilateral."
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "query": "Prove that the tangents drawn at the ends of a diameter are parallel.",
+        "relevant_texts": [
+          "Tangents drawn at the ends of a diameter are parallel because the radius at the point of contact is perpendicular to the tangent, and the two radii are collinear."
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "query": "Why can’t you draw a tangent from a point inside a circle?",
+        "relevant_texts": [
+          "A tangent cannot be drawn from a point inside a circle because it would intersect the circle at two points instead of touching it at one point."
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "query": "Prove that the length of the tangents drawn from an external point to a circle is equal.",
+        "relevant_texts": [
+          "The lengths of tangents drawn from an external point to a circle are equal due to congruent triangles formed by the radii and the tangents."
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "query": "Show that the angle between two tangents from an external point is supplementary to the angle subtended by the chord joining the points of contact at the center.",
+        "relevant_texts": [
+          "The angle between two tangents from an external point and the angle subtended by the chord at the center are supplementary as their sum is 180 degrees."
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "query": "A triangle ABC circumscribes a circle. If BD = 8 cm and DC = 6 cm, find AB + AC.",
+        "relevant_texts": [
+          "AB + AC = 26 cm, based on the property that tangents drawn from an external point to a circle are equal in length."
+        ],
+        "difficulty": "medium"
+      }
+  ]
+  
